@@ -1,11 +1,11 @@
 {
-  "name": "react-native-draggable-grid",
+  "name": "@gcnomore/react-native-draggable-grid",
   "keywords": [
     "drag",
     "sortable",
     "grid"
   ],
-  "version": "2.1.5",
+  "version": "2.1.6",
   "description": "A draggable grid for react native",
   "main": "built/src/index.js",
   "types": "src/index.ts",
@@ -42,21 +42,21 @@
   "author": "shisme",
   "license": "ISC",
   "devDependencies": {
-    "@types/jest": "^24.0.18",
-    "@types/react": "^16.0.0",
-    "@types/react-native": "*",
-    "babel-jest": "^24.9.0",
-    "jest": "^24.9.0",
+    "@types/jest": "^27.4.1",
+    "@types/react": "^18.0.6",
+    "@types/react-native": "0.67.5",
+    "babel-jest": "^27.5.1",
+    "jest": "^27.5.1",
     "jest-react-native": "^18.0.0",
     "pre-commit": "^1.2.2",
-    "react": "^16.0.0",
-    "react-native": "*",
-    "ts-jest": "^24.0.2",
-    "prettier": "^1.18.2",
-    "typescript": "^3.8.0"
+    "react": "17.0.2",
+    "react-native": "0.68.1",
+    "ts-jest": "^27.1.4",
+    "prettier": "^2.6.2",
+    "typescript": "^4.6.3"
   },
   "peerDependencies": {
-    "react": "^16.0.0",
-    "react-native": "*"
+    "react": "17.0.2",
+    "react-native": "0.68.1"
   }
 }
